@@ -1,9 +1,8 @@
 
 def square_array(array)
      array.each do |number|
-     puts "#{number += 2!}"
-    
-    
+     puts "#{number}"
     end
+    puts "#{array += 1}
  end
 
