@@ -1,4 +1,4 @@
-array = [1,2,3].square!
+array = [1,2,3].map!
 def square_array(array)
     array.each do |number|
     puts "#{number}"
